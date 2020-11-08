@@ -57,8 +57,7 @@ windows上在性能设置里修改性能，同时建议在快捷键中把全局�
 
 输入经纬度，查询后，下方会出现是否设置为当前位置，点击**确定**：
 
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20201021100824152.png#pic_center)
-
+<img src="https://img-blog.csdnimg.cn/20201021100824152.png" width = "80%" />
 
 # 4.录制打卡操作
 回到企业微信的界面
